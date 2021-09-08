@@ -1,0 +1,48 @@
+group: IlmuDewantara
+Video = {
+noVideo, title, subTitle, category, subCategory, minute, subscription, mentorInitial
+'OR01', 'How to:', 'Interview', 'Organization', 'Interviews', 25, 'Yes', 'MR'
+'OR02', 'How to:', 'CV', 'Organization', 'Resume', 45, 'No', 'AJ'
+'CO01', 'How to:', 'Pitch Deck', 'Competition', 'Pithdeck', 70, 'Yes', 'MA'
+'TE01', 'Insider:', 'Bayucaraka ITS', 'Team', 'Robotic', 34, 'No', 'CN'
+'TE02', 'Insider:', 'Model United Nations', 'Team', 'MUN', 29, 'Yes', 'AD'
+'TE03', 'Insider:', 'Ichiro ITS', 'Team', 'Robotic', 37, 'No', 'AN'
+'OR03', 'XCompany', 'Gaining IT-Business Partner', 'Organization', 'IT-Business', 34, 'Yes', 'AC'
+'OR04', 'XCompany', 'Building Portofolio', 'Organization', 'Resume', 47, 'No', 'AJ'
+'OR05', 'Xpeople', 'Make Your Startup Now!', 'Organization', 'IT-Business', 70, 'Yes', 'MF'
+}
+Mentor = {
+mentorInitial, fullName, lastName, expertise, education, institution
+'AC', 'Aulia ', 'Cisatra', 'IT-Business', 'IT-Business Management', 'Harvard University'
+'MF', 'Muhammad', 'Fathurrahman', 'IT-Business', 'Accountant', 'UC Berkley'
+'MR', 'Mihammad Armando Nur', 'Rizqy', 'Interviews', 'Pshicology', 'University of Toronto'
+'AJ', 'Amalinda', 'Jayanty', 'Resume', 'Pshicology', 'Standford Univesity'
+'MA', 'Muhammad Fiqri', 'Ananda', 'Pitchdeck', 'Global Business Management', 'Bina Nusa University'
+'CN', 'Cecilia Melva', 'Natania', 'Robotic', 'Computer Engineering', 'Massachusetts Institute of Technology'
+'AD', 'Aina', 'Divany', 'MUN', 'International Relation', 'National University of Singapore'
+}
+User = {
+username, fullName, lastName, major, subscription, interest
+'emirsyahba', 'Emirsyah Bayu', 'Aji', 'Informatics', 'Yes', 'Robotic'
+'basharaaina', 'Bashara', 'Aina', 'Information Systems', 'Yes', 'IT-Business'
+'benedictpandu', 'Benediktus Pandu', 'Budhiwicaksono', 'Chemical Engineering', 'No', 'Robotic'
+'ghips23', 'Muhammad', 'Ghiffari', 'Electro Engineering', 'Yes', 'Robotic'
+'firdagama', 'Firdaus Wahyu Gama', 'Ashaari', 'Business Management', 'No', 'IT-Business'
+'keziaangelique', 'Kezia Angelique', 'Sidabutar', 'Communication Science', 'No', 'Interviews'
+'hasnadhiya', 'Hasna', 'Dhiya', 'Communication Management', 'Yes', 'Resume'
+'fidelanathania', 'Fidela', 'Nathania', 'Business Management', 'No', 'Pitchdeck'
+'mahattaaa', 'Hanif Mitsal', 'Mahatta', 'Business Management', 'Yes', 'IT-Business'
+'naufalrafiawan', 'Naufal Rafiawan', 'Basara', 'Public Relation', 'No', 'MUN'
+}
+IDeWatch = {
+idwCode, title, category, subCategory, difficulty, date
+'IDW01', 'Open Recruitment Bayucaraka 2021', 'Team', 'Robotic', 'Intermediate', '03-08-2021'
+'IDW02', 'ITS Youth Technopreneurship 2021', 'Competition', 'IT-Business', 'Beginner', '16-07-2021'
+'IDW03', 'BRI Data Hackathon Demo Day 2021', 'Competition', 'IT-Business', 'Expert', '17-03-2021'
+'IDW04', 'Bionix College Level ISE! 2021', 'Competition', 'IT-Business', 'Beginner', '01-08-2021'
+'IDW05', 'Open Recruitment Spektronics 2021', 'Team', 'Robotic', 'Intermediate', '01-07-2021'
+'IDW06', 'Society of Petroleum Engineers ITS', 'Organization', 'Interviews', 'Intermediate', '20-09-2021'
+'IDW07', 'ITS Model United Nations Club', 'Organization', 'MUN', 'Beginner', '23-08-2021'
+'IDW08', 'Curriculum Vitae Design Competition', 'Organization', 'Resume', 'Beginner', '01-05-2021'
+'IDW09', 'Java Business Competition', 'Competition', 'Pitchdeck', 'Beginner', '25-08-2021'
+}
