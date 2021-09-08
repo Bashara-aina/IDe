@@ -22,7 +22,7 @@ mentorInitial, firstName, lastName, expertise, education, institution
 'AD', 'Aina', 'Divany', 'MUN', 'International Relation', 'National University of Singapore'
 }
 User = {
-username, fullName, lastName, major, subscription, interest
+username, firstName, lastName, major, subscription, interest
 'emirsyahba', 'Emirsyah Bayu', 'Aji', 'Informatics', 'Yes', 'Robotic'
 'basharaaina', 'Bashara', 'Aina', 'Information Systems', 'Yes', 'IT-Business'
 'benedictpandu', 'Benediktus Pandu', 'Budhiwicaksono', 'Chemical Engineering', 'No', 'Robotic'
