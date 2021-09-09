@@ -15,8 +15,8 @@ Mentor = {
 mentorInitial, firstName, lastName, expertise, education, institution
 'AC', 'Aulia ', 'Cisatra', 'IT-Business', 'IT-Business Management', 'Harvard University'
 'MF', 'Muhammad', 'Fathurrahman', 'IT-Business', 'Accountant', 'UC Berkley'
-'MR', 'Mihammad Armando Nur', 'Rizqy', 'Interviews', 'Pshcology', 'University of Toronto'
-'AJ', 'Amalinda', 'Jayanty', 'Resume', 'Pshycology', 'Standford Univesity'
+'MR', 'Mihammad Armando Nur', 'Rizqy', 'Interviews', 'Psychology', 'University of Toronto'
+'AJ', 'Amalinda', 'Jayanty', 'Resume', 'Psychology', 'Standford Univesity'
 'MA', 'Muhammad Fiqri', 'Ananda', 'Pitchdeck', 'Global Business Management', 'Bina Nusa University'
 'CN', 'Cecilia Melva', 'Natania', 'Robotic', 'Computer Engineering', 'Massachusetts Institute of Technology'
 'AD', 'Aina', 'Divany', 'MUN', 'International Relation', 'National University of Singapore'
