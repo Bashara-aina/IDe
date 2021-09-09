@@ -36,13 +36,13 @@ username, firstName, lastName, major, subscription, interest
 }
 IDeWatch = {
 idwCode, title, category, subCategory, difficulty, date
-'IDW01', 'Open Recruitment Bayucaraka 2021', 'Team', 'Robotic', 'Intermediate', '03-08-2021'
-'IDW02', 'ITS Youth Technopreneurship 2021', 'Competition', 'IT-Business', 'Beginner', '16-07-2021'
-'IDW03', 'BRI Data Hackathon Demo Day 2021', 'Competition', 'IT-Business', 'Expert', '17-03-2021'
-'IDW04', 'Bionix College Level ISE! 2021', 'Competition', 'IT-Business', 'Beginner', '01-08-2021'
-'IDW05', 'Open Recruitment Spektronics 2021', 'Team', 'Robotic', 'Intermediate', '01-07-2021'
-'IDW06', 'Society of Petroleum Engineers ITS', 'Organization', 'Interviews', 'Intermediate', '20-09-2021'
-'IDW07', 'ITS Model United Nations Club', 'Organization', 'MUN', 'Beginner', '23-08-2021'
-'IDW08', 'Curriculum Vitae Design Competition', 'Organization', 'Resume', 'Beginner', '01-05-2021'
-'IDW09', 'Java Business Competition', 'Competition', 'Pitchdeck', 'Beginner', '25-08-2021'
+'IDW01', 'Open Recruitment Bayucaraka 2021', 'Team', 'Robotic', 'Intermediate', '2021-08-03'
+'IDW02', 'ITS Youth Technopreneurship 2021', 'Competition', 'IT-Business', 'Beginner', '2021-07-16'
+'IDW03', 'BRI Data Hackathon Demo Day 2021', 'Competition', 'IT-Business', 'Expert', '2021-03-17'
+'IDW04', 'Bionix College Level ISE! 2021', 'Competition', 'IT-Business', 'Beginner', '2021-08-01'
+'IDW05', 'Open Recruitment Spektronics 2021', 'Team', 'Robotic', 'Intermediate', '2021-07-01'
+'IDW06', 'Society of Petroleum Engineers ITS', 'Organization', 'Interviews', 'Intermediate', '2021-09-20'
+'IDW07', 'ITS Model United Nations Club', 'Organization', 'MUN', 'Beginner', '2021-08-23'
+'IDW08', 'Curriculum Vitae Design Competition', 'Organization', 'Resume', 'Beginner', '2021-05-01'
+'IDW09', 'Java Business Competition', 'Competition', 'Pitchdeck', 'Beginner', '2021-08-25'
 }
